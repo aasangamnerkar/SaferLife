@@ -1,6 +1,9 @@
 # SaferLife
 Going back to school in the fall and want to trace who you meet? My app uses custom QR codes to trace and monitor everyone you contact in a day. Go back to school safe with SaferLife!
 
+# HackTheLib
+### This project was submitted to the HackTheLib hackathon in the best impact category
+
 ## Inspiration
 Last week, I received an email from my school district discussing ways to reopen schools in the fall. They were considering having 1/2 of the students on campus for 1 semester and the other half on the second semester, having teachers move from class to class instead of students, and all other types of scheduling nightmares in order to trace who comes into contact with who. After talking to my parents, I found out that their workplaces were also in a similar state of confusion as to how they could reopen a physical location while keeping track of who contacts who. Later that same day, I opened up Snapchat and noticed how they used a personalized QR code to add users to a personal friends "list." I also realized that almost every student at my school has a mobile device that they carry around all day. At that moment, I got the inspiration to create an app that is able to trace everyone a person comes into contact with via personalized QR codes like Snapchat.
  
