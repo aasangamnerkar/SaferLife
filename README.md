@@ -1,6 +1,9 @@
 # SaferLife
 Going back to school in the fall and want to trace who you meet? My app uses custom QR codes to trace and monitor everyone you contact in a day. Go back to school safe with SaferLife!
 
+# DevPost Link
+https://devpost.com/software/saferlife
+
 # HackTheLib
 ### This project was submitted to the HackTheLib hackathon in the best impact category
 
